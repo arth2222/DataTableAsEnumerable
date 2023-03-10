@@ -14,7 +14,7 @@
         <br />
         Skriv inn passord for admin for å logge inn
         <br />
-        <asp:TextBox ID="passwordTextbox" runat="server"></asp:TextBox>
+        <asp:TextBox ID="passwordTextbox" runat="server" TextMode="Password"></asp:TextBox>
         <br />
         <br />
         <asp:Button ID="Button1" runat="server" Text="Logg inn" OnClick="LoggInn_Click" />
