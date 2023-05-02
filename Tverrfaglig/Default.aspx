@@ -16,7 +16,7 @@
         <br />
         <br />
         <br />
-        <asp:LoginStatus ID="LoginAndLogout" runat="server" LoginText="Logg inn" LogoutText="Logg ut" />
+        <asp:LoginStatus ID="LoginAndLogout" runat="server" LoginText="Logg inn" LogoutText="Logg ut" /> 
     </form>
 </body>
 </html>
